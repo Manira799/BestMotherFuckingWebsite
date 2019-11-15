@@ -1,0 +1,58 @@
+h1, h2,h3, h4, p
+{
+	text-align: justify-all;
+    font-family: verdana;
+}
+
+p
+{
+	font-size: normal;
+    font-family: verdana;
+}
+ul
+{
+	font-size: normal;
+    font-family: verdana;
+	width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+
+p
+{
+    width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+h1, h2, h3, h4
+{
+	 width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+.web
+{
+    color: brown;
+}
+.wrong
+{
+    color: red;
+    text-decoration: underline;
+}
+figure
+{
+    width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    text-align: justify;
+    padding: 12px;
+    margin-bottom: 20px;
+
+}
+
+
